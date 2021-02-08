@@ -209,23 +209,23 @@ button:focus {
 }
 
 .social-icon li a:hover {
-  color: #fff;
+  color: #333;
 }
 
 .social-icon li .facebook:hover {
-  background: #3b5999;
+  background: #d4e2d4;
 }
 
 .social-icon li .twitter:hover {
-  background: #4A9CEC;
+  background: #d4e2d4;
 }
 
 .social-icon li .instagram:hover {
-  background: #D6274D;
+  background: #d4e2d4;
 }
 
 .social-icon li .linkedin:hover {
-  background: #1260A2;
+  background: #d4e2d4;
 }
 
 .social-icon li .google:hover {
